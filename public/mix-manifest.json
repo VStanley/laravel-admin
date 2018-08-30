@@ -1,0 +1,14 @@
+{
+    "/admin/css/adminStyle.css": "/admin/css/adminStyle.css",
+    "/admin/js/adminCore.min.js": "/admin/js/adminCore.min.js",
+    "/admin/js/app.min.js": "/admin/js/app.min.js",
+    "/admin/js/summernote.min.js": "/admin/js/summernote.min.js",
+    "/admin/js/switchery.min.js": "/admin/js/switchery.min.js",
+    "/admin/js/uniform.min.js": "/admin/js/uniform.min.js",
+    "/admin/js/dropzone.min.js": "/admin/js/dropzone.min.js",
+    "/admin/js/fancytree.js": "/admin/js/fancytree.js",
+    "/admin/js/extra_trees.js": "/admin/js/extra_trees.js",
+    "/admin/js/jquery_ui.js": "/admin/js/jquery_ui.js",
+    "/admin/js/select2.min.js": "/admin/js/select2.min.js",
+    "/admin/js/pnotify.min.js": "/admin/js/pnotify.min.js"
+}

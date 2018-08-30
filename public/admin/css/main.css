@@ -1,0 +1,63 @@
+.login-container .page-container .login-form {
+    width: 345px;
+}
+.logo-title{
+    font-size: 25px;
+    line-height: 45px;
+}
+.tree-li{
+    padding-bottom: 6px;
+    /*border-bottom: 1px solid #ece9e9;*/
+    margin: 20px 0;
+}
+.tree-options{
+    text-align: right;
+}
+.tree-options a{
+    margin-right: 3px;
+}
+.tree-show, .tree-template{
+    text-align: center;
+}
+.ul-header{
+    list-style: none;
+    border-bottom: 1px solid;
+    height: 35px;
+    margin-top: 20px;
+    font-weight: 500;
+}
+.link-btn{
+    border: none;
+    background-color: transparent;
+}
+.settings{
+    width: 15%;
+}
+.mt-40{
+    margin-top: 40px;
+}
+.inline{
+    display: inline;
+    float: right;
+}
+.change-size, .create-thumbnail{
+    display: none;
+}
+.fancytree-ico-cf .fancytree-icon:after, .fancytree-ico-ef .fancytree-icon:after{
+    content: "\ea56";
+}
+.fancytree-has-children.fancytree-ico-ef .fancytree-icon:after{
+    content: "\ea57";
+}
+.fancytree-has-children.fancytree-ico-cf .fancytree-icon:after{
+    content: "\ea56";
+}
+.tree-modal .fancytree-title{
+    background-color: transparent;
+}
+.tree-modal  .fancytree-treefocus{
+    background-color: transparent;
+}
+.float-right{
+    float: right;
+}
